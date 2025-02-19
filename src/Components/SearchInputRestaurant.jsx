@@ -9,7 +9,7 @@ function SearchInputRestaurant() {
             <input
                 type="text"
                 placeholder='Maharashtra'
-                value="Kolkata"
+                value="Maharashtra"
                 readOnly
                 className='h-full w-full px-8 pr-0 rounded-md outline-none' 
             />
